@@ -1,0 +1,6 @@
+[submodule "x86_64-linux-android-4.9"]
+	path = x86_64-linux-android-4.9
+	url = https://github.com/lucialup/x86_64-linux-android-4.9
+[submodule "goldfish"]
+	path = goldfish
+	url = https://github.com/lucialup/goldfish
