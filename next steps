@@ -1,0 +1,9 @@
+functii variadiec pt hook
+	hook("openat", "dsd", fd, filename, flags);
+test pe aplicatii
+
+log -> json sau ceva
+
+malwaree si vedem ceva speram
+
+(performance evaluation)
