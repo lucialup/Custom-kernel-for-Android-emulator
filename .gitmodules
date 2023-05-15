@@ -4,3 +4,6 @@
 [submodule "goldfish"]
 	path = goldfish
 	url = https://github.com/lucialup/goldfish
+[submodule "TestApp"]
+	path = TestApp
+	url = https://github.com/lucialup/TestApp.git
