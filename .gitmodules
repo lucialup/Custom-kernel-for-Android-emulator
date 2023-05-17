@@ -7,3 +7,6 @@
 [submodule "TestApp"]
 	path = TestApp
 	url = https://github.com/lucialup/TestApp.git
+[submodule "UserApp"]
+	path = UserApp
+	url = https://github.com/lucialup/UserApp.git
