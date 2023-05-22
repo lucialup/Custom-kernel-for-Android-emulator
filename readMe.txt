@@ -28,12 +28,12 @@ Run Test app provided in order to test the accuracy of the logs
 
 The TestApp is a simple app that is designed to perform basic fs operations (open, read, write, close). The kernel logs should catch the app's syscalls.
 Install the app in the emulator and run it by the following commands:
-adb -s emulator-5553 install path_to_apk
+adb -s emulator-5554 install path_to_apk
 adb -s emulator-5554 shell am start -n com.example.testapp/.MainActivity
 
 /* e.g. 
 
-adb -s emulator-5553 install /home/luci/Desktop/thesis/tutorials/tutorial1/TestApp/app/build/outputs/apk/debug/app-debug.pk
+adb -s emulator-5554 install /home/luci/Desktop/thesis/tutorials/tutorial1/TestApp/app/build/outputs/apk/debug/app-debug.apk
 adb -s emulator-5554 shell am start -n com.example.testapp/.MainActivity
 
 */
