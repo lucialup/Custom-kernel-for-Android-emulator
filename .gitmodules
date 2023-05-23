@@ -10,3 +10,6 @@
 [submodule "UserApp"]
 	path = UserApp
 	url = https://github.com/lucialup/UserApp.git
+[submodule "PhotoGenerator"]
+	path = PhotoGenerator
+	url = https://github.com/lucialup/PhotoGenerator.git
