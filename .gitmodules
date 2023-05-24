@@ -13,3 +13,6 @@
 [submodule "PhotoGenerator"]
 	path = PhotoGenerator
 	url = https://github.com/lucialup/PhotoGenerator.git
+[submodule "MalwareSimulator"]
+	path = MalwareSimulator
+	url = https://github.com/lucialup/MalwareSimulator
